@@ -25,7 +25,7 @@ For more information, please refer to:
 
 - [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
 - [User Guide](https://create-react-app.dev) – How to develop apps bootstrapped with Create React App.
-- [iTwin Viewer](https://github.com/imodeljs/itwin-viewer/tree/master/packages/modules/itwin-viewer-react) - iTwin Viewer
+- [Basic Viewport App](https://github.com/imodeljs/imodeljs-samples/tree/master/interactive-app/basic-viewport-app) - Basic Viewport App
 
 
 ## Purpose
